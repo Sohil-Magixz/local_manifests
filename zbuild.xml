@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="sairam1411/device_xiaomi_miatoll" path="device/xiaomi/miatoll" revision="twelve"/>
+  <project name="sairam1411/device_xiaomi_sm6250-common" path="device/xiaomi/sm6250-common" revision="twelve"/>
+  <project name="sairam1411/kernel_xiaomi_sm6250" path="kernel/xiaomi/sm6250" revision="twelve-kcal"/>
+  <project name="sairam1411/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" revision="twelve"/>
+  <project name="sairam1411/vendor_xiaomi_sm6250-common" path="vendor/xiaomi/sm6250-common" revision="twelve"/>
+  
+  <project name="LineageOS/android_packages_apps_Trebuchet" path="android/packages/apps/Trebuchet" revision="lineage-19.1"/>
+  <project name="LineageOS/android_frameworks_base" path="android/frameworks/base" revision="lineage-19.1"/>
+  <project name="LineageOS/android_packages_apps_Settings" path="android/packages/apps/Settings" revision="lineage-19.1"/>
+  
+</manifest>
